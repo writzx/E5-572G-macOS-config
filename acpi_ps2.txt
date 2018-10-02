@@ -1,0 +1,25 @@
+Decrease brightness	- _Q11
+Increase brightness	- _Q12
+Brightness - 0		- [[NONE]]
+WiFi			- _Q60
+Lid			- _Q15
+Cable Plugged		- _Q37
+Cable Unplugged		- _Q38
+
+
+Decrease brightness(ScrLk)	- 46=6b
+Increase brightness(PrtSc)	- e045=71
+Sleep 				- e05f=0, 0=80
+Mirror				- e05b=3a + 19=23
+Stop				- e024=80
+
+
+PS2 = ADB
+ADB // PS2
+
+CODES TO BE SENT
+——————————
+_Q11 -> 46 	(ScrLk)
+_Q12 -> e045	(PrtSc)
+_Q60 -> Airplane Mode
+_Q15 -> e05f	(Sleep)
