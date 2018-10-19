@@ -675,7 +675,7 @@
 		<key>ScreenResolution</key>
 		<string>1024x768</string>
 		<key>Theme</key>
-		<string>BGM</string>
+		<string>clover-theme-minimal</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>

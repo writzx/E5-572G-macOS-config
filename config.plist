@@ -663,7 +663,7 @@
 		<key>ScreenResolution</key>
 		<string>1024x768</string>
 		<key>Theme</key>
-		<string>BGM</string>
+		<string>clover-theme-minimal</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -772,6 +772,8 @@
 				<data>
 				AEFQUExFIFNTRAA=
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOAHCIBlockStorage</string>
 				<key>Replace</key>
